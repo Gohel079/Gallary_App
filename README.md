@@ -13,7 +13,7 @@
 
 3. Full_Screen_Acitivity
 
-
+![Screenshot_20200914-101157](https://user-images.githubusercontent.com/55271815/93047168-7903f680-f679-11ea-933d-c7715189a0b2.png)
 
 
 
